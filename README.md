@@ -1,2 +1,2 @@
-# hello-workd
+# hello-world
 just another repository
