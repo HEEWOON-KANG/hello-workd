@@ -1,4 +1,5 @@
 # hello-world
 
-Hi, everyone
+Hi, everyone.
+
 For my graduate school assignment, I've started git-hub.
